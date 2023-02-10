@@ -1,0 +1,4 @@
+#!/bin/bash
+root@ec3157dbd2e1:/alx-system_engineering-devops/0x00-shell_basics# ls
+0-current_working_directory  README.md
+
