@@ -1,17 +1,2 @@
 #!/bin/bash
-root@ec3157dbd2e1:/bin# ls -la                                                                                                        
-
-total 263992                                                                                                                          
-
-drwxr-xr-x 1 root root      20480 Mar 29  2022  .                                                                                     
-
-drwxr-xr-x 1 root root        109 Mar 29  2022  ..                                                                                    
-
--rwxr-xr-x 1 root root      59736 Sep  5  2019 '['                                                                                    
-
--rwxr-xr-x 1 root root       7415 Oct 26  2021  add-apt-repository                                                                    
-
--rwxr-xr-x 1 root root      30952 Feb  7  2022  addpart                                                                               
-
-lrwxrwxrwx 1 root root         26 Oct 20  2021  addr2line -> x86_64-linux-gnu-addr2line 
-
+ln -s /bin/ls __ls__

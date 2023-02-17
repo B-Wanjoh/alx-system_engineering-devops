@@ -1,15 +1,2 @@
 #!/bin/bash
-
-root@ec3157dbd2e1:/alx-system_engineering-devops/0x00-shell_basics# ls -a -l                                                            
-total 24                                                                                                                                
-drwxr-xr-x 2 root root  150 Feb  8 19:33 .                                                                                              
-drwxr-xr-x 4 root root   60 Feb  8 14:11 ..                                                                                             
--rwxr-xr-x 1 root root   77 Feb  8 19:15 0-current_working_directory                                                                    
--rw-r--r-- 1 root root   79 Feb  8 18:44 0x00-shell_basics                                                                              
--rw-r--r-- 1 root root   79 Feb  8 18:43 1                                                                                              
--rw-r--r-- 1 root root   40 Feb  8 18:45 1-listit                                                                                       
--rwxr--r-- 1 root root   20 Feb  8 19:28 2-bring_me_home                                                                                
--rw-r--r-- 1 root root 1098 Feb  8 19:33 3-listfiles                                                                                    
--rw-r--r-- 1 root root    0 Feb  8 17:55 README.md                                                                                      
-root@ec3157dbd2e1:/alx-system_engineering-devops/0x00-shell_basics#
-
+ls -la

@@ -1,4 +1,2 @@
 #!/bin/bash
-root@ec3157dbd2e1:/# cd /tmp/my_first_directory                                                                                         
-bash: cd: /tmp/my_first_directory: No such file or directory
-
+rm -r /tmp/my_first_directory

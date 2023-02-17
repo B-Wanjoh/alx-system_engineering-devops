@@ -1,5 +1,2 @@
 #!/bin/bash
-t@ec3157dbd2e1:/tmp/my_first_directory# ls                                                                                           
-betty                                         
-t@ec3157dbd2e1:/tmp/my_first_directory#
-
+mv /tmp/betty /tmp/my_first_directory

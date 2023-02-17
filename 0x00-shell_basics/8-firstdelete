@@ -1,6 +1,2 @@
 #!/bin/bash
-root@ec3157dbd2e1:/tmp/my_first_directory# ls                                                                                           
-betty                                                                                                                                   
-root@ec3157dbd2e1:/tmp/my_first_directory# rm betty                                                                                     
-root@ec3157dbd2e1:/tmp/my_first_directory# ls 
-
+rm /tmp/my_first_directory
